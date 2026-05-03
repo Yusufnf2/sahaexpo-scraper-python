@@ -24,4 +24,5 @@ Scraper untuk mengambil data exhibitor dari https://sahaexpo.com
 ```bash
 pip install -r requirements.txt
 
+```
 ![Scraping](scraping.png)
