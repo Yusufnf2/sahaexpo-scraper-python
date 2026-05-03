@@ -1,7 +1,6 @@
 # SahaExpo Exhibitor Scraper
 
 Scraper untuk mengambil data exhibitor dari https://sahaexpo.com
-![Scraping](scraping.png)
 
 ## Features
 - Ambil semua exhibitor links
@@ -24,3 +23,5 @@ Scraper untuk mengambil data exhibitor dari https://sahaexpo.com
 
 ```bash
 pip install -r requirements.txt
+
+![Scraping](scraping.png)
