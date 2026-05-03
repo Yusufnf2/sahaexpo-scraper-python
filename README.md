@@ -23,6 +23,4 @@ Scraper untuk mengambil data exhibitor dari https://sahaexpo.com
 ## Installation
 
 ```bash
-git clone https://github.com/username/sahaexpo-scraper.git
-cd sahaexpo-scraper
 pip install -r requirements.txt
